@@ -1,11 +1,11 @@
 # Site settings
 author: Laura Lewis
-title: 
+title: Laura's Data Science Blog
 header-img: img/home-bg.png
 email: lvlewis8@gmail.com
 copyright_name: Laura Lewis
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Laura loves data
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  L-Lewis
